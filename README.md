@@ -1,6 +1,6 @@
 # José Lucas
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor Back-end`**
 
 Me chamo José Lucas Fernandes da Silva, tenho 20 anos e moro em São Paulo. Concluí o ensino médio na Etec, com o curso técnico em informática para internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Sou apaixonado por tecnologia e resolver desafios do dia a dia, sempre busco aprimorar meu conhecimento tecnico e pessoal.
 
