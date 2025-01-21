@@ -106,7 +106,8 @@ Me chamo José Lucas Fernandes da Silva, tenho 20 anos e moro em São Paulo. Con
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joselucas-DEV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
